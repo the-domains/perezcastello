@@ -1,0 +1,41 @@
+typography_spectrum: 0.04390208620430514
+color:
+  brandStrength: 0.2755188234217723
+  lightness: 0.7103679000477463
+  saturation: 0.3093643781682937
+  rhythmicContrast: 0.39304545366924515
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+github: true
+opengraph:
+  appId: '230825397363788'
+layout_spectrum: 0.9341514885390528
+author:
+  name: Josep Antoni Pérez Castelló
+  email: pep.perez@uib.es
+  url: 'http://uib.cat'
+logo: null
+name: perezcastello
+url: 'http://perezcastello.link'
+navigation:
+  - name: Acerca del autor
+    id: 9cc8a54a-4f17-4c69-a3f5-2c65003948e9
+    type: content
+  - name: Autismo
+    id: aedf2fb2-d778-4461-ab9e-6e8398a326b3
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f8bc891-0455-4049-b036-1a6b3abc774d.ico
+title: Trastornos del neurodesarrollo
+content: []
+description: >-
+  En construcción :Información y recursos sobre trastornos del desarrollo en la
+  infancia
+purpose:
+  - type: contact
+    url: 'mailto:pep.perez@uib.es'
+    label: Si quieres contactar...
