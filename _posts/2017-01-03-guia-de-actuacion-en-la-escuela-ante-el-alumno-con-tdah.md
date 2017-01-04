@@ -19,8 +19,8 @@ description: >-
 inLanguage: es
 app_links: []
 title: Guía de Actuación en la Escuela ante el alumno con TDAH.
-datePublished: '2017-01-04T18:56:05.727Z'
-dateModified: '2017-01-04T18:56:04.160Z'
+datePublished: '2017-01-04T19:03:17.642Z'
+dateModified: '2017-01-04T19:03:15.888Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-03-guia-de-actuacion-en-la-escuela-ante-el-alumno-con-tdah.md
