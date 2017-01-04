@@ -61,14 +61,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.agenciasinc.es/Noticias/La-hiperactividad-podria-esconder-una-alteracion-en-la-transmision-de-dopamina
 title: La hiperactividad podría esconder una alteración en la transmisión de dopamina
-datePublished: '2017-01-04T18:58:38.874Z'
-dateModified: '2017-01-04T18:58:21.371Z'
-datePublishedOriginal: '2017-01-04T18:58:38.874Z'
+datePublished: '2017-01-04T19:03:17.635Z'
+dateModified: '2017-01-04T19:03:15.888Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-01-04-la-hiperactividad-podria-esconder-una-alteracion-en-la-trans.md
+starred: false
+datePublishedOriginal: '2017-01-04T18:58:38.874Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
