@@ -63,14 +63,14 @@ isBasedOnUrl: >-
 title: >-
   Una homocisteína alta durante la preconcepción afecta a la capacidad cognitiva
   del hijo
-datePublished: '2017-01-04T18:54:29.181Z'
-dateModified: '2017-01-04T18:54:19.051Z'
-datePublishedOriginal: '2017-01-04T18:54:29.181Z'
+datePublished: '2017-01-04T18:56:05.727Z'
+dateModified: '2017-01-04T18:56:04.160Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-01-04-una-homocisteina-alta-durante-la-preconcepcion-afecta-a-la-c.md
+starred: false
+datePublishedOriginal: '2017-01-04T18:54:29.181Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
