@@ -4,9 +4,16 @@
         <description><![CDATA[Trastornos del neurodesarrollo]]></description>
         <link>http://perezcastello.link/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Jan 2017 18:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2017 18:37:07 GMT</lastBuildDate>
         <atom:link href="http://perezcastello.link/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Jan 2017 18:36:53 GMT</pubDate>
+        <pubDate>Wed, 04 Jan 2017 18:36:56 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Dificultades en el procesamiento visual en ni&ntilde;os v&iacute;a @educapeques https://t.co/9xsOOMXl9I</blockquote>]]></description>
+            <link>https://twitter.com/LogopediaDom/status/816547872795660288</link>
+            <guid isPermaLink="false">60c83118-e366-4dcd-974a-24b3ae0de613</guid>
+            <pubDate>Wed, 04 Jan 2017 18:36:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[etapas del neurodesarrollo]]></title>
             <description><![CDATA[<article><h1>etapas del neurodesarrollo</h1><p>clasificación de las etapas del neurodesarrollo Los humanos no nacemos con todas nuestras capacidades cerebrales listas para ser utilizadas. Están ahí, en el programa que contiene nuestro ADN humano, y progresivamente van "manifestándose" a medida que crece nuestro sistema nervioso. El neurodesarrollo es un proceso lento que empieza en la concepción y no cesa hasta la muerte....</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1c8f51ccfb877d3a3c1a4e80795b2ff7/noop?input=https%3A%2F%2Fmjmas.files.wordpress.com%2F2015%2F12%2Fetapas-neurodesarrollo.jpg%26h%3D380"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://perezcastello.link/la-importancia-del-contacto-social/index.html</link>
             <guid isPermaLink="false">3a81bf81-8625-401a-bec9-3e89bb7a5f6e</guid>
             <pubDate>Mon, 02 Jan 2017 16:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¿Qué sucede en los tres primeros años de vida?]]></title>
-            <description><![CDATA[<article><h1>¿Qué sucede en los tres primeros años de vida?</h1><p> Lorem ipsum dolor sit amet, dui magna nulla nibh non, turpis gravida ultricies est, wisi erat dui proin, aliquam erat ut quis sem. Tincidunt velit libero justo etiam, lacus etiam nunc massa vel. Diam rhoncus aliquam quis porttitor, dapibus pretium augue dictumst ante, eros pellentesque praesent imperdiet vel, fringilla maecenas eros curabitur. Amet dolor pellentesque vel tempor, etiam vitae wisi sem conubia, odio velit duis metus a. Interdum porta lectus at eros, a orci lacinia mattis. Vitae quis diam ut, nulla est faucibus eu praesent, etiam id cras sed. Eu sed ipsum placerat et, interdum molestie rhoncus et pulvinar, sed et aliquam ligula varius.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2962dd-f893-4e0a-9b3a-aa78a4e14c3c.jpg"></article>]]></description>
-            <link>http://perezcastello.link/que-sucede-en-los-tres-primeros-anos-de-vida/index.html</link>
-            <guid isPermaLink="false">74387af5-5f81-4907-97a9-82050908cfbf</guid>
-            <pubDate>Mon, 02 Jan 2017 16:29:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
