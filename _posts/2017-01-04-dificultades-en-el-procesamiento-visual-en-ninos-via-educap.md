@@ -6,7 +6,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/14916a3986a57fc4075459a695b2d0ed1e1f8e64.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4273910f2843a1f501d0a431c1beeaa0/noop.jpeg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000566702627%2Fa27233166259f3ae775601b0eb148b16_bigger.jpeg
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/14916a3986a57fc4075459a695b2d0ed1e1f8e64.jpg
       width: 73
       height: 73
       colors:
@@ -43,8 +43,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/LogopediaDom/status/816547872795660288'
-datePublished: '2017-01-04T18:56:05.704Z'
-dateModified: '2017-01-04T18:56:04.160Z'
+datePublished: '2017-01-04T19:03:17.645Z'
+dateModified: '2017-01-04T19:03:15.888Z'
 title: ''
 via: {}
 inFeed: true
