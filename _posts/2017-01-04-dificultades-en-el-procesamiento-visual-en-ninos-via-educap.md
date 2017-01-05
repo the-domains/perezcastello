@@ -43,8 +43,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/LogopediaDom/status/816547872795660288'
-datePublished: '2017-01-04T19:03:17.645Z'
-dateModified: '2017-01-04T19:03:15.888Z'
+datePublished: '2017-01-05T08:47:33.446Z'
+dateModified: '2017-01-05T08:47:31.965Z'
 title: ''
 via: {}
 inFeed: true
