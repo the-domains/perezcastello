@@ -10,8 +10,8 @@ description: >-
   nisi. Quisque placerat risus felis, a euismod mi eleifend sed. Praesent
   vulputate odio vel sem rutrum vehicula. Vestibulum in tellus in enim
   condimentum varius sed eu nisl.
-dateModified: '2017-01-04T19:03:15.888Z'
-datePublished: '2017-01-04T19:03:17.624Z'
+dateModified: '2017-01-05T08:47:31.965Z'
+datePublished: '2017-01-05T08:47:33.401Z'
 title: El desarrollo psicomotor
 author: []
 publisher: {}
