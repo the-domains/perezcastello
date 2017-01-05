@@ -21,8 +21,8 @@ inLanguage: pt
 app_links: []
 isBasedOnUrl: 'https://neuropediatra.org/2015/12/16/etapas-del-neurodesarrollo/'
 title: etapas del neurodesarrollo
-datePublished: '2017-01-04T19:03:17.636Z'
-dateModified: '2017-01-04T19:03:15.888Z'
+datePublished: '2017-01-05T08:47:33.449Z'
+dateModified: '2017-01-05T08:47:31.965Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-04-etapas-del-neurodesarrollo.md
