@@ -29,14 +29,14 @@ isBasedOnUrl: >-
 title: >-
   Relación entre las funciones ejecutivas y los procesos de decodificación
   grafema-fonema en Educación Primaria
-datePublished: '2017-01-05T08:32:31.522Z'
-dateModified: '2017-01-05T08:32:24.950Z'
-datePublishedOriginal: '2017-01-05T08:32:31.522Z'
+datePublished: '2017-01-05T08:47:33.408Z'
+dateModified: '2017-01-05T08:47:31.965Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-01-05-relacion-entre-las-funciones-ejecutivas-y-los-procesos-de-de.md
+starred: false
+datePublishedOriginal: '2017-01-05T08:32:31.522Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
