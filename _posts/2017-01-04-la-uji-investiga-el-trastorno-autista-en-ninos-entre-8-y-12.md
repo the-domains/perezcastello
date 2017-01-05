@@ -30,8 +30,8 @@ app_links:
 isBasedOnUrl: >-
   http://www.elmundo.es/comunidad-valenciana/castellon/2016/12/27/58622763268e3e8b4b8b45b2.html
 title: La UJI investiga el trastorno autista en niños entre 8 y 12 años
-datePublished: '2017-01-04T19:03:17.642Z'
-dateModified: '2017-01-04T19:03:15.888Z'
+datePublished: '2017-01-05T08:47:33.447Z'
+dateModified: '2017-01-05T08:47:31.965Z'
 via: {}
 inFeed: true
 sourcePath: >-
