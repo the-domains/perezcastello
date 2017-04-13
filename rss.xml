@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lecturas productivas]]></title>
+        <description><![CDATA[Lecturas productivas]]></description>
+        <link>http://perezcastello.link/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 13 Apr 2017 21:43:40 GMT</lastBuildDate>
+        <atom:link href="http://perezcastello.link/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Los fundamentos de la Técnica Pomodoro]]></title>
+            <description><![CDATA[<article><h1>Los fundamentos de la T&eacute;cnica Pomodoro</h1><p>Estas son las razones por las que mucha gente utiliza la t&eacute;cnica Pomodoro con &eacute;xito.</p><img src="https://s3.amazonaws.com/ft-docs/en/pomodoro-timer.jpg"></article>]]></description>
+            <link>https://facilethings.com/blog/es/science-behind-pomodoro-technique.html</link>
+            <guid isPermaLink="false">addbde08-a00b-427c-94ec-0b0ea675a1b1</guid>
+            <pubDate>Thu, 13 Apr 2017 21:43:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
